@@ -196,7 +196,7 @@ jupyter notebook Emotions_Classification_using_ML_and_DL.ipynb
 
 
 ##Author
-**Apoorva Yadav**
+-- Apoorva Yadav
 
 ## License
 
