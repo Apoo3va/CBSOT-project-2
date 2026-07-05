@@ -1,0 +1,37 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Environment variables / secrets
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
+
+# NLTK downloaded data (if downloaded locally into repo)
+nltk_data/
+
+# Large trained model artifacts (uncomment if you don't want to track these in git)
+# *.h5
+# *.pkl
