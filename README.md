@@ -195,7 +195,7 @@ jupyter notebook Emotions_Classification_using_ML_and_DL.ipynb
 - **EDA/Visualization:** pandas, seaborn, matplotlib, wordcloud
 
 
-##Author
+## Author
 -- Apoorva Yadav
 
 ## License
